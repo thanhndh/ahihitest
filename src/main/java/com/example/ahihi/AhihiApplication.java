@@ -12,7 +12,7 @@ public class AhihiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AhihiApplication.class, args);
 	}
-	@GetMapping("/")
+	@GetMapping("/test")
 	public String get(){
 		return "index";
 	}
