@@ -1,2 +1,5 @@
 https://www.youtube.com/watch?v=d86xG-UKWB0
 https://www.youtube.com/watch?v=iJ2rkonD6V4
+export POSTGRESQL_DB_HOST=postgresql://ec2-44-198-82-71.compute-1.amazonaws.com:5432/dcvi69lb2i1vhd
+export POSTGRESQL_DB_USERNAME=jjzekxwlbdhvyw
+export POSTGRESQL_DB_PASSWORD=8e410e37bd8f62f40cf79ba56bcf8cc88ab0aa46c536e14e89980b0de9866da3
